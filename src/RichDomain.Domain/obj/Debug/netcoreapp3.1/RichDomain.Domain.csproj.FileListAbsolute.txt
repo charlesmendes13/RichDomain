@@ -1,0 +1,9 @@
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\bin\Debug\netcoreapp3.1\RichDomain.Domain.deps.json
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\bin\Debug\netcoreapp3.1\RichDomain.Domain.dll
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.csprojAssemblyReference.cache
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.AssemblyInfo.cs
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\bin\Debug\netcoreapp3.1\RichDomain.Domain.pdb
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.dll
+D:\Visual Studio\RichDomain\src\RichDomain.Domain\obj\Debug\netcoreapp3.1\RichDomain.Domain.pdb
